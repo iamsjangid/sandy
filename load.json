@@ -1,0 +1,80 @@
+{
+    "products": [
+        {
+            "_id": "65d2187c44048af878bdbebf",
+            "product": {
+                "_id": "65d0c675c7b3122c79e4069b",
+                "category": "Keyboard",
+                "title": "white-strips-shirt",
+                "productPrice": 650,
+                "imagesId": "https://picsum.photos/521/575?random=1"
+            },
+            "qty": 3,
+            "isPresent": true,
+            "createdAt": "2024-02-18T14:47:24.540Z",
+            "updatedAt": "2024-02-18T14:49:16.819Z",
+            "__v": 0
+        },
+        {
+            "_id": "65d2188444048af878bdbec4",
+            "product": {
+                "_id": "65d0c675c7b3122c79e406b3",
+                "category": "Car",
+                "title": "white-strips-shirt",
+                "productPrice": 696,
+                "imagesId": "https://picsum.photos/596/583?random=1"
+            },
+            "qty": 2,
+            "isPresent": true,
+            "createdAt": "2024-02-18T14:47:32.700Z",
+            "updatedAt": "2024-02-18T14:48:48.966Z",
+            "__v": 0
+        },
+        {
+            "_id": "65d218c144048af878bdbec9",
+            "product": {
+                "_id": "65d0c675c7b3122c79e406ad",
+                "category": "Fish",
+                "title": "white-strips-shirt",
+                "productPrice": 336,
+                "imagesId": "https://picsum.photos/557/599?random=1"
+            },
+            "qty": 2,
+            "isPresent": true,
+            "createdAt": "2024-02-18T14:48:33.508Z",
+            "updatedAt": "2024-02-18T14:48:51.270Z",
+            "__v": 0
+        },
+        {
+            "_id": "65d218c344048af878bdbece",
+            "product": {
+                "_id": "65d0c5916d5dde47003d9769",
+                "category": "Shirt",
+                "title": "white-strips-shirt",
+                "productPrice": 460,
+                "imagesId": "https://picsum.photos/551/535?random=1"
+            },
+            "qty": 2,
+            "isPresent": true,
+            "createdAt": "2024-02-18T14:48:35.034Z",
+            "updatedAt": "2024-02-18T14:48:52.835Z",
+            "__v": 0
+        },
+        {
+            "_id": "65d218c444048af878bdbed3",
+            "product": {
+                "_id": "65d0c5916d5dde47003d976f",
+                "category": "Fish",
+                "title": "white-strips-shirt",
+                "productPrice": 653,
+                "imagesId": "https://picsum.photos/531/521?random=1"
+            },
+            "qty": 2,
+            "isPresent": true,
+            "createdAt": "2024-02-18T14:48:36.351Z",
+            "updatedAt": "2024-02-18T14:48:53.786Z",
+            "__v": 0
+        }
+    ],
+    "total": 5
+}
